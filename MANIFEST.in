@@ -1,3 +1,0 @@
-include pedigree_matrix/*.py
-include *.txt
-include LICENSE
